@@ -48,7 +48,11 @@ int add_to_array (linked_array_t* next_in_line)
 
 int execute_array_tasks (void)
 {
-    linked_array_t* current_task = array; 
+
+    linked_array_t* current_task = array;
+    
+    make_init_doc(); 
+    
     while(current_task->next_task)
     {
         printf("Option:%d\n", current_task->index_value);
@@ -56,6 +60,8 @@ int execute_array_tasks (void)
         current_task = current_task->next_task;
         
     }
+
+    make_end_doc();
 }
 int free_array(void)
 {

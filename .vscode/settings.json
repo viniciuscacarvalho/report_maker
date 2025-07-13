@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "linked_array.h": "c"
+        "linked_array.h": "c",
+        "call_backs.h": "c"
     }
 }

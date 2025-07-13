@@ -14,9 +14,8 @@ struct linked_array_s {
     call_back_t task;
 };
 
-
-
 int add_to_array (linked_array_t* next_in_line);
 int execute_array_tasks (void);
 int free_array(void);
+
 #endif

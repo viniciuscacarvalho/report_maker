@@ -1,0 +1,26 @@
+# Fdb version 4
+["pdflatex"] 1752441654.56005 "/home/viny/Desktop/Just playing around/output_doc/output.tex" "output.pdf" "output" 1752441657.67405 0
+  "/etc/texmf/web2c/texmf.cnf" 1739659465.76955 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/viny/Desktop/Just playing around/output_doc/output.tex" 1752441648.94682 136 185711009b2e0936af15bbdda2d4a896 ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/report.cls" 1705352648 23203 f5d913095ece2233436f0e628619cd37 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo" 1705352648 8449 f07039d8e4e89f21078d9b5137579bfc ""
+  "/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1704491087 30006 57b07afb710ee2f649c65cfbafda39c1 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/tree-dvips/lingmacros.sty" 1300405697 9506 61acecab9b335babd29e060f0011610b ""
+  "/usr/share/texlive/texmf-dist/tex/latex/tree-dvips/tree-dvips.sty" 1300405697 8552 b7db3c0732f761d31db398a8f3dca316 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1740674360.48436 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1740674454 8214878 8bf884a945468c85d54b5119d726d5ab ""
+  "output.aux" 1752441657.41259 292 73e58147a492f865ce7bea4f394c5e16 "pdflatex"
+  "output.tex" 1752441648.94682 136 185711009b2e0936af15bbdda2d4a896 ""
+  (generated)
+  "output.aux"
+  "output.log"
+  "output.pdf"
+  (rewritten before read)
